@@ -1,7 +1,7 @@
 # info
 Information about the group
 
-Anarchy Capital Group is a private organization anonymously funding disrupting projects. Its members are going by acronyms and aliases. 
+Anarchy Capital Group is a private organization anonymously funding or assisting disruptive projects. Its members are going by acronyms and aliases. 
 
 The Group was founded officially on april 9th 2012 by "ZEI" who used to be a white hat security programmer for more than 20 years and a crypto investor since 2013. 
 
